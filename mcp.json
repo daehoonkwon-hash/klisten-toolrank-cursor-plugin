@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "toolrank": {
+      "url": "https://api.klisten.co.kr/mcp/toolrank",
+      "headers": {
+        "Authorization": "Bearer ${KLISTEN_API_KEY}"
+      }
+    }
+  }
+}
